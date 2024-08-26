@@ -1,4 +1,4 @@
-# Business Intelligence
+# Analista de Dados
 ## Nivel 1
 - [ ] **Business Intelligence (BI) - Fundamentos**:
    - Business Intelligence é um conjunto de teorias, metodologias, processos e tecnologias que possibilitam a transformação dos dados “crus” em informações extremamente relevantes para tomada de decisão de uma empresa.
